@@ -1,0 +1,26 @@
+{
+  "name": "Chester Moody",
+  "age": 63,
+  "address": {
+    "street": "Gekku Lane",
+    "city": "Wiwiti",
+    "state": "MN",
+    "zip": "49746"
+  },
+  "contact": {
+    "phone": "(440) 575-4225",
+    "servicePhone": "800284582"
+  },
+  "birthday": "1992-05-12T12:17:10.109Z",
+  "ip": "150.65.195.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Kijwu gejsah efve epa la no lo sorzen ne al hi dih jiki nenu ja pi luzmi. Oviej fa bicef pufi zerjuzub iguorulun vam bot saf zopba tikas sutus rev kujezpiz bupif gocvajhip ap. Waj unepalpa funaw velic tac ikathat afa ku re ogepaf cottal surebva patu febwer. Rafsemat zu cehbacim no tugta hinsuvhum ucesaes res ete tet gurno hewu wegkaivo we. Fajtibfut cifzit sinnulos livjanip ba ezepiale ucene et ize vo zajave ten rozkawim pefo ketar. Tojuem sad reek siklola etbi jibadmo jezlojcu gidguj runzuj tup bewugwic pawik. Dutdanu zekit bodejsip tov ef vacar ibam gi jov cu roztak zazuz.",
+    "bio": "Basinhip cisbe jaerwe mujwi ed ifaiviges zedudova hohdab zilo iladu ubu runial husana. Gem enli sek tu luwidas set musitdag rildofo unoatiep cuzcamod tosefda wobijwuh oc. Etesimzed hog jif wevsutar budotek tozaz gok fumwafin zelik faranu dicuve ewefu ajte cedane."
+  },
+  "apiKey": "2f3164da7cb6ccfd1e20507e4c9ba284c63e1c9b3eb242eea28cb088c0be6086",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
