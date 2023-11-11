@@ -1,0 +1,26 @@
+{
+  "name": "Betty Bishop",
+  "age": 23,
+  "address": {
+    "street": "Wetrut Street",
+    "city": "Vumvuvi",
+    "state": "MO",
+    "zip": "13126"
+  },
+  "contact": {
+    "phone": "(832) 496-5554",
+    "servicePhone": "800828561"
+  },
+  "birthday": "1982-04-03T23:03:44.671Z",
+  "ip": "178.136.160.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Mus awcaeba nekbe aju jiwulesuh zojseob avema vo wepu vip wacnuv luvzit mowohewo gaoli be. Tudic kim uptu kurku ikjor ha vob pecugeas jogga ibi zic lofel ru. Umu di es rap up lal ezuguepi dur pifari efo kojaprap esa am wuz wuk zew wubbami idoji. Imuajzis lipu nifezi pokkaso hamgi azoji jizuv fu vezpudo lod hifac ziva. Sazip ahaga obvectis te mekkofu vop co incihev deveg doflugrur gosil irizu.",
+    "bio": "Awucoh wagowe uz noklevaj foj erare po gip jicbe wetuke kogke kepulos. Nu bu dijtafu po jes kuwfov bihtac gomne fuk ufuic ezmium halfe je vep vepzon pefolu hoatpa bozanun. Hodkob mefip hoj hahij fedu ranogocu si kocgenir nibutba sodse julru kaptakef aca. Me hen tafitaov pa mi sikultu gahajepa owhihkem elwuh li gajo ictus dorawerop nagov fudor. Sugjec gazne sanah fore sala lepcob mi veb imelopwi holag tivuvo les marik ohaes panlan ufiju pud ewo."
+  },
+  "apiKey": "264fc99709de2ce0a75d43a518cb83cfde7f4295c3fc6d871d7468e0df85babc",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
