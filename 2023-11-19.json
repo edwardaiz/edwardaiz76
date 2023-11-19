@@ -1,0 +1,26 @@
+{
+  "name": "Alice Boone",
+  "age": 60,
+  "address": {
+    "street": "Upizu River",
+    "city": "Tifkesze",
+    "state": "CO",
+    "zip": "82840"
+  },
+  "contact": {
+    "phone": "(204) 378-5245",
+    "servicePhone": "800762681"
+  },
+  "birthday": "1981-08-28T20:09:58.467Z",
+  "ip": "168.76.124.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Dod sova ohe wirel ewenuv haspabve zabur tarmi rabibu dobop di ahejjo zasumpu kamaw azape jeru. Aveku in ul ejkurma nippo olje ducsetuga tathe me guf jusme ducovo hedim uvihato to pohcej. Dekojepa kerogat ozuke iwuorfin gul bem kewcamki otuuw et koc gud suop cu nurohir mas fiv ridul.",
+    "bio": "Mevobu zeci oj ive josi lave sivobvu pis jigidtah nioz lug pek mem. On gerid toowi ha bewfipja gi juhejgid ticeli vaecu abtebuso rewov conas. Guona burvubfu ceh kavta cahdih caz gecovefon jeeru zaccenuv umeucoigu hacufa vi."
+  },
+  "apiKey": "61ea736f240865f11cf2c4a955188343990576efbc4ef3678081973911d60def",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
