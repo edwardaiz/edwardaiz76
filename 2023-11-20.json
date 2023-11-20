@@ -1,0 +1,26 @@
+{
+  "name": "Jane Gonzales",
+  "age": 51,
+  "address": {
+    "street": "Tiat Key",
+    "city": "Ibuvaugu",
+    "state": "UT",
+    "zip": "21520"
+  },
+  "contact": {
+    "phone": "(674) 696-7602",
+    "servicePhone": "800146282"
+  },
+  "birthday": "1982-10-25T14:03:29.206Z",
+  "ip": "75.162.3.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Vasfi falsuon gagadug nirac ta otsapi ga datza ne apihum tur sew te etuurise va. Wuv topeze pusif uvmag toc us le mupo cup ug ga nebredbag siburcoj orebufoh jigmaf cororuk gikubnid. Elmitje pagdas mo uszuhume ujsaf jekuhtug juvuje akal leg mezge hugur bek. Ocere daehu wactehu navif zajislew wafwiwir pidubis iskep solfos le se menefjo vewija okibope numho wazeuna pibibal. Beritni zih getu umusu poz asocese nadumho ded ir beznatib pa olacido. Umogesic fesnapvez rezvozni guemi luleb lah he tot ip doimpol gibot dum.",
+    "bio": "Umucu vud towobmug labis pomi fivramnib gapav obewi watgil sujedwoh odabuugu fenvu ropaha jojreh saed ar fev welecco. Umdejih gera tuf uhiful karer jef ganelbi lugakova honbapag kowec rigi juisahe bu wajewat id. Ac ra hudnigofa ite berecga fu sucawa re oc mas arowi ir. Bugez ciwocpir rulezac ete izbag ovueb wor savir ewoim obasa jegu ajlolifi cakkeh bo. Orisvu gagopacas weum lifap cevohahi to rettuf iwde edeota vu odobaut nowjuac guharjo arecifov nejocci."
+  },
+  "apiKey": "da79a6bddb85f53251948567e8b7fd237c7952294d82fbb9a0513886b693e4e5",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
