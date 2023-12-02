@@ -1,0 +1,26 @@
+{
+  "name": "Myra Evans",
+  "age": 19,
+  "address": {
+    "street": "Lezboz Street",
+    "city": "Cufoes",
+    "state": "MN",
+    "zip": "42181"
+  },
+  "contact": {
+    "phone": "(375) 675-9598",
+    "servicePhone": "800981291"
+  },
+  "birthday": "2000-12-19T03:40:03.067Z",
+  "ip": "89.20.16.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Birur jedarzo lom vor vejiraaw ilocostac av hu uwagek velpehciw do hafus jabfol. Mafaretu gu muj nocuho honeczaf nuv uhaj nomij taocmep fe acibutis reco ocecazrok guodego. Mu ugi tedtuh atinucoc wekati bajaver daso feh efdomlu dotjojfod kesmi sonagciw nadu lel wac ep. Ir alujaw tid mula nikuj gek gosef hovja utevir iv velal ki jieho unpeij fo helrod.",
+    "bio": "Koek jivlofror wab guflozcez ubta ze pute togijoh buzfupi palbazot koc oz libah luwucupaw. Uno unonon tocsi epehu noz id milun ovdursub gazzef hunrezubi jewojoz congucbo zis. Rukof opdokaw bitajde tenar fe more womvuje vemro hedi tikzetor je hujjakoca mefebim wutbe hekoc."
+  },
+  "apiKey": "5dc91f19ed13ed11b77ba338110e5cc8beb04a0f024a208f4a7105c8dc5f63f0",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
