@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Hansen",
+  "age": 25,
+  "address": {
+    "street": "Bunka Lane",
+    "city": "Meludu",
+    "state": "TN",
+    "zip": "52240"
+  },
+  "contact": {
+    "phone": "(437) 780-8020",
+    "servicePhone": "800199725"
+  },
+  "birthday": "1981-05-28T08:15:35.389Z",
+  "ip": "77.135.215.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Kope goc takto wupok fal dubwot ofanam za lo atjucil roros rumluh. Zem pik ucdinoz zosezaza mi reseila lu vikco cadzuzed mag kobacu bus veb zig pevaj weg da waljelu. Coasaje kasuz eb biumneb lojdom holmep owawo ez fuzsoab fok jo faef pozzin pup. Al pamokas ca kifuno bikiba seasufon tova ca udti geutkiw keshil zopav ara.",
+    "bio": "Kopaf ga rufbuz vuklesuv tuz hobzez ra hedas odujooro zej fad cebim vudezo mazso araani. Cudzoegi vacvavpih kir egvi linnene jit vewfiwwa wahdiwuf bestupo silmamo onfus erhi radagunop. Bodjiz dulun ne cuvkog buvavbuw bedelov dedbo bof pilda imeocijuh sictak rocecna bota gi gus zugret goika."
+  },
+  "apiKey": "92f4b99d17b21303b2899b49fb189ce03ccc796e087e767c453cccc6b67367fa",
+  "currency": {
+    "code": "SPL",
+    "name": "Seborga Luigino"
+  }
+}
