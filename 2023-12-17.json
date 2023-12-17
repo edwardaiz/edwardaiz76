@@ -1,0 +1,26 @@
+{
+  "name": "Billy Harvey",
+  "age": 48,
+  "address": {
+    "street": "Ojrov Mill",
+    "city": "Sahozohaf",
+    "state": "ID",
+    "zip": "38890"
+  },
+  "contact": {
+    "phone": "(760) 738-2846",
+    "servicePhone": "800374477"
+  },
+  "birthday": "1962-08-25T06:44:58.954Z",
+  "ip": "162.162.58.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Nupifid omi budjit lo zekwomu giz ciij hi togev vize wake ib upo aza utecuv joeja gagbojip. Jiwi saan zugar gas dozecno madvi hebo givec bud ko ina su puwus leumupu livehci ekucuzob gaphecde. Ra tihboz wozride pe bu owluov ussafo zedtitus kadiubi dewezus ka zad vuwiuso eruzo gojrica.",
+    "bio": "Cif zafa be apofu winmo bo novuge abnuzofu nop nip abidutud ze cirakfam il. Nabac tilari sucnet ow jempezo luv juhpuapa wudi man rep ros wusgubfe wiisu atso huj kes kisicoze unnu. Tohmil luhepa rihlaviv pobton berale uczawod sudjiphaw mofbogog licukumo ca cuvivbu ne ul ka op do."
+  },
+  "apiKey": "e3ac5edf48568d9a835540f4db2a2ade403ce3771c926819ebc0a099fe71c990",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
