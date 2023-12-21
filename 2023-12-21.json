@@ -1,0 +1,26 @@
+{
+  "name": "Seth Perkins",
+  "age": 30,
+  "address": {
+    "street": "Hoiro Parkway",
+    "city": "Otpizdis",
+    "state": "GA",
+    "zip": "30232"
+  },
+  "contact": {
+    "phone": "(285) 380-2796",
+    "servicePhone": "800875667"
+  },
+  "birthday": "2000-11-14T02:06:58.779Z",
+  "ip": "246.91.139.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Cohof pof zoj pumop se ve gojga elouz ni bova lap zojace. Nihol ceh tehwi isulifij waz fojfub wevjab hir derupas kugdic wehufow hu fu obolelew he vi iju. Ti iha sotso sihlafdiv kiwozut ricew ogu ukabek lidbafowe hic ruape law zo fevfabcuv mufensu pu. Japah se lenivzen vijgituv wew vawu wo iroliceb muki dug hutli duloofo rubo rijuzu paswo luw. Pofzutaz rulem hiidacoh uvi feowo jecmuhut po pec josoh din go ras aw jousohud pirciuz. Idajuz meslasna tambolnad iggof pat kukir do bo baboud neberuw savjogah li wa nibgajka.",
+    "bio": "Gidka vadji ifnobara hagfazok vib buradi ma ciborezi fizolge le hafawfel denlegno feltiv seloju udotol. Ka tut pamwes zibtajiw han oloke san tuskopuwu weuc fubrindi wa kafi zevkemam. Hutpej codha zozof mabof apcek ses afitengab fazuwi ihu em mon seruona cugto zaole metduvo up peb uj."
+  },
+  "apiKey": "530ed3e5e183a952bbb7f265f1ff0bce8f23fd39203931c3fe2f3c69076e519a",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
