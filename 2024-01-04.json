@@ -1,0 +1,26 @@
+{
+  "name": "Harold Ryan",
+  "age": 22,
+  "address": {
+    "street": "Mauhe Loop",
+    "city": "Bouhli",
+    "state": "WI",
+    "zip": "18305"
+  },
+  "contact": {
+    "phone": "(764) 254-7284",
+    "servicePhone": "800727458"
+  },
+  "birthday": "1981-12-01T06:03:06.100Z",
+  "ip": "172.52.215.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Lompo kaumu oswopu meitem sitapfa ni ubu basmorar veruh doha mo fimiuci gipganlun kec cisupag davtebi tip. Ha ezeope esaasvil sa navem fadis ewmoj anazaogo jimsofbo toksopni bu duszinifa misajog suzdow biivodiw la fi. Viak jes sonusezu be ij uf ma kaw ecve ek ul isapiiga wapwol rul otahamhi oceakaw kezgogha nickip.",
+    "bio": "Sawkokuf si apgose fuwfaf guufi gah vuhejgu uj moikoeki azozuj fuwminzi uhhimkop obalu ikizo. Lourafo lohufi nuf nat osi ricudic go widzu wih kerzi hil oj degrova. So lilhet wikar jompease av rium welipup fephuvcom kufgid ku hef waesu ahruhan tijal es nubadne. Ro lair buf ci runaj arfi caub vigdangi zehe cizfooz powcilkad hiros dojekoewo gere. Ce apvaz na murpob sunje gouve vozraod dofuzzof wefza loh dim kab cor ripuv vufolvo dopu. Devodah riw sad rosbezo focet joslib oduhi piebbev jugver agicebbav piucwad napa."
+  },
+  "apiKey": "9c857c141d19ef72050202b1c8f9dac643e4fffa9864fef7d9ad7143d6f80b0e",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
