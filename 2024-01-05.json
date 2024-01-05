@@ -1,0 +1,26 @@
+{
+  "name": "Terry Cohen",
+  "age": 48,
+  "address": {
+    "street": "Ohofa Circle",
+    "city": "Pefiezu",
+    "state": "DC",
+    "zip": "23871"
+  },
+  "contact": {
+    "phone": "(302) 955-1453",
+    "servicePhone": "800869923"
+  },
+  "birthday": "1987-11-18T19:23:13.004Z",
+  "ip": "58.16.214.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Gejwiz noeje va onumonhic ebreddi galpevow gu jilso nudiciw ehakeza pu jip. Papabum kecom koogaza kis bi fu gac cusuvaj cotalnet mehsedi ab minuwod ecu. Zip dilluh op tu kefjil goh woba zeha tu savuve pucaad lus opafeca im ma jusekpe mo. Givez efaozzo cairla ham ozvu wofit isimuhaj cifmohlab mo hiv vipud vikim.",
+    "bio": "Jihi sezen zapovne ihutahcer moli tat tadbak ab wuzako ge sohujo amipokfe ecawiwot norowju suciz epzub tuur ciconto. Kokdadwep himjumzom jotiju do sotisup uhiozacov fak gahzini gijcupel naseg ja opmegmet bim ka su. Okuboelo lojuzwan ut bitbi teki itapiwmuv gopuro beluvaw jeuvoduv leptejan pulabot reg waftog."
+  },
+  "apiKey": "d7f0b2e8a88b42cc73f8ccbc40abc7ad0ce0fb829ed25cb0b35aa8c5fb37d131",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
