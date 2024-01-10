@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Jacobs",
+  "age": 25,
+  "address": {
+    "street": "Pazez Lane",
+    "city": "Nemzuhu",
+    "state": "MA",
+    "zip": "34658"
+  },
+  "contact": {
+    "phone": "(203) 721-8093",
+    "servicePhone": "800686513"
+  },
+  "birthday": "1998-12-03T13:56:51.111Z",
+  "ip": "242.139.237.28",
+  "foo": "bar",
+  "profile": {
+    "about": "An ubjuzazo mojunuk lelje waic bokaru siwimfo rose mehojen lok cij gehijeb noven upje recgis hiusme ufinu ruluj. Fu aci geldu pizeiwo lusim civto hiotore fil ofi om riwvi necudeg loc rarjo joaju. Kojiom toj zurof owusubtav za detiz pa owanal kat tihfahej bapsiwtep gaz adcud. Hu vaaju avaov ha secadeb meiz bu zo be ine vo cuvcawbo ekle calfublij pez. Kivuj mozgasoco julhiwa erop heigo boekdac mugupci buvbi uni upepo jebcunad bigirmi wac salconfil ta duw awfus we.",
+    "bio": "Sidsa litu kakvahra gij melkueju joheto ja pumivu pevteg curbabpe tavof ipanub. Focuvi ipfec uriguv fet fetabok deud lujof vabrun zine nu dehvuduv fu fogzeb. Uti ehweheko puhano sadodci tevzokebo efeca dud vurjo edsupes jurjifjiv iwinajmu godsu ci vag nar lise. Situzga otwozi wirzo ob ufeaj wo uzlob giolo ud sok zumon zibsi vibwoc etubiso. Ser lirfa ohocib julicmit norit luhorozo amfire wal foro ni me toila ofudtej bojbit pujabwo dir ibze."
+  },
+  "apiKey": "b8d1cb3574719cd0eeb6675f9e77e00dc68df08db251a3fa01cf92503e653134",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
