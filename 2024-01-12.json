@@ -1,0 +1,26 @@
+{
+  "name": "Amy Fitzgerald",
+  "age": 45,
+  "address": {
+    "street": "Uhovu Key",
+    "city": "Napebon",
+    "state": "MI",
+    "zip": "69019"
+  },
+  "contact": {
+    "phone": "(517) 228-3189",
+    "servicePhone": "800525745"
+  },
+  "birthday": "1965-11-17T12:57:35.857Z",
+  "ip": "67.79.46.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Jir fiucoko vooc kergahdu ziffodpan di povpotu valsomuba pusin or nu fuiha dureru ti zulobi temo. Jignal pito his rivulug og irautsan sutijogo hofod zedlu cepil beavek dad daidta opaama odok hatweg kituf. Hofekar dacoppa sed awouvar cub veluce ga cevud pukaug no hi lirewe bu mu tasgohos umep.",
+    "bio": "Pedom telhof beka pu vodfubvom gigek tub jehecmi dehabudo cur los veva naju fivbuzhi zaipi ahtenjel. Ram cucuhji rerkufos viri wi azufojok maz salrom nocodkom deebo ki nezi naavzi gonzesvew aveiwjol urevajsa mov. Gawezad ha hik getlukce vin neddone kocavi wemjabro licokjot si deeca gu uhah fadpad zarado rudi dufgafhe. Timubbug ozigipu koskaz azzuc ridobe sutub dil te nehnepe vugnugi rigsebuv hewiziz hufriota forhap uz."
+  },
+  "apiKey": "19c2415d83d2f9eb0a065c0eb68eb41f312ad7fea1a76b68fdbae6287187d8b1",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
