@@ -1,0 +1,26 @@
+{
+  "name": "Erik Salazar",
+  "age": 33,
+  "address": {
+    "street": "Jadu Highway",
+    "city": "Kecijupa",
+    "state": "MT",
+    "zip": "41935"
+  },
+  "contact": {
+    "phone": "(664) 825-6959",
+    "servicePhone": "800626984"
+  },
+  "birthday": "1999-05-03T17:00:54.221Z",
+  "ip": "239.117.131.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhle kebo ina rengor cupnaj bon fojoti zojnaiso ve sekov mauwaba ogaimiban ahehip kuk dacbeh homithak povedipek. Ju himbedum jukjo ce ozva ow epopoj okpi teajheg jujam rol ja. Ujfunve duzvid utupawol ibra dulgotdoh guvuvame le ka nu ganici wer nat. Jev jaaj siowo ure ihuemedut saroztim hujcadwa cagazekes tav reur joaleujo izoaposih lep jah marak vinupduc. Zovuwcal pa beed itnoluze ago mecon vi uzadefok ce lokuges gosuadu hancuat ru toadula rur kuv vep. Heseha go putna bi robom hoin jebbe uzeliji su ca le led ifasofzad nuv kozinife uwetiri.",
+    "bio": "Evuruzko gadojis daf zedef hib kiloc cordig ij ro woke uj peacsu cuuroku domu. Ehruco wilwejnog tah we jorlez jep barofaca un jomofu potceru cegiwi geme ac bece. Cukujob jos cocwil owcu ojinaizo tolod te se uplicba natotuze wocirev rat."
+  },
+  "apiKey": "8a0af02a4198f7df277519f35f52291e8cbff97aa264eec796d2628af3791ab1",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
