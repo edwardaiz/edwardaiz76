@@ -1,0 +1,26 @@
+{
+  "name": "Christine Beck",
+  "age": 39,
+  "address": {
+    "street": "Huvab Avenue",
+    "city": "Sapebidac",
+    "state": "MS",
+    "zip": "40577"
+  },
+  "contact": {
+    "phone": "(702) 340-6931",
+    "servicePhone": "800946484"
+  },
+  "birthday": "1990-01-08T21:23:52.743Z",
+  "ip": "10.19.21.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Torwalod zakca uma di ru cuwlod nudet jowhivha bisaji nihawap meckir ebuk wah fof zat nusruv. Bibaj ogasabis kugek jig zubad udejeim sen olekouru sod am awooc zirrerat wa ecu rovpal riidaji pacsolok. Jisu biziwlos opehakse vidaj ul mig derup peni gewneze temdusrol hosi boonro ozisiz baahi desare amipeag zotuv.",
+    "bio": "Acef uni urowed tifowran papnetcor igohi napsoton bi ecleziho liji seliwoka pon bilaaru tafboc. Wuteziado be wugnebid neju picemo giotuk wanain azfi vetetaj soomo ke izowi sofes hadranof uwoozi meji nu. Lepulu tap houlnu po wahi iboli dih uzcegal eb iz ebuned ibezuv citugi kuvukem as robvusar kalu za. Jic aleezsa fut piztup kopcoh aptom heho ruvrahbep soulamu vem wipadeg lugkan."
+  },
+  "apiKey": "9241df82813b336fb48322fbc688a305e6ab4ed144ffe241763fec959c9d829f",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
