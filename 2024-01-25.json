@@ -1,0 +1,26 @@
+{
+  "name": "Violet Wise",
+  "age": 37,
+  "address": {
+    "street": "Achaj Way",
+    "city": "Acrehra",
+    "state": "DE",
+    "zip": "98373"
+  },
+  "contact": {
+    "phone": "(954) 911-2600",
+    "servicePhone": "800316456"
+  },
+  "birthday": "1977-10-23T15:37:26.139Z",
+  "ip": "116.196.112.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Suwpege upoko fumuite gucev mu fiokiaf izi vumico pi ul tubvo juwdov ahonoro huw wuota. Lokat je emi rihvic wudutra zodidocim culef roduboho cuvonus sal inowif ti mo. Sinhofu ibomid ochivo sew hiw iswoude ri eco lilecvi nenciv ersuwbow wu ino.",
+    "bio": "Mul citvuv re noh emuko oba tun atodot ma minri ila ih dablat. Ili niol heroj oli daczil fo ju jidvina ji uf ido peuketat pu. Rowzazli ohru lizij fo ivjop sakoj gobki ugbav lu li co rum kepevmec zuzilul ef pahsotit owkac."
+  },
+  "apiKey": "d012afd2efbf3b03db194935ed0a8e3108079670b3fd66f2e7755da3f4263f10",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
