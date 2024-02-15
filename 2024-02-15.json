@@ -1,0 +1,26 @@
+{
+  "name": "Esther Santiago",
+  "age": 64,
+  "address": {
+    "street": "Lico Parkway",
+    "city": "Bargatic",
+    "state": "AL",
+    "zip": "94341"
+  },
+  "contact": {
+    "phone": "(514) 485-2361",
+    "servicePhone": "800341717"
+  },
+  "birthday": "1993-05-06T09:38:46.956Z",
+  "ip": "133.249.27.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti gok dezi binka fattal ru dabveh ac takguris ke jus mi. Rudpa miljujvaj tihtin aro jek lo vumihofi orepge onuum juh hilkuek cirseh febhul gosep bokupihe gom du. Wa ja nekfobir zet emorak iwicamhet uwekous bug tatza suwe mori joocpi lewinisi tocwu fuf jel. Pajgaje wav fag zampa rod soddebdi kej aho esa akvar kotu hocwuk wa komedauco conecon.",
+    "bio": "Puolunow biwzo won jit horveho tohelwez wi pallofa uh mu gabiolo zi ro ru ashu asucu dektasab. Idpus oko ivilca zasa ucudode deddo zohunef velpuwel kocfu ja betuz ka ac apakig keb covecsu bip. Pustipi pal romagco lapigwin gunuszo zufab uribvuk asusal urawega tu saib ivpidu bab adu."
+  },
+  "apiKey": "5a4695d09b6bc3a5fdeb1b5b3a8b891bff9c4bbcdc72e5c0f35dfce84c6b61f5",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
