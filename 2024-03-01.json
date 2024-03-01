@@ -1,0 +1,26 @@
+{
+  "name": "Erik Morton",
+  "age": 32,
+  "address": {
+    "street": "Tohje Way",
+    "city": "Gozidow",
+    "state": "NY",
+    "zip": "10011"
+  },
+  "contact": {
+    "phone": "(819) 647-3460",
+    "servicePhone": "800385992"
+  },
+  "birthday": "1979-02-24T07:40:23.295Z",
+  "ip": "249.45.209.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Pezfulan neizhi wikesaim zus vi etul par dev tano ec bab repep cad. Rezapuvi efodul wafap afopage oku hurfoscat gihaf humufu bez ujkithe wonisneg seobijo vof faem. Jevihdu ukbejtag ha pu guzi un vi pi oszi cogir ibijuged fus litolo lovvodi mu buf. Lateni wibazape tizdal eg in vomafoara ojpucap jabmav zeb ud ocoheru newfikoto he go mu ukiom iwdas.",
+    "bio": "Ubadle mi gon manimog hiv cocam talribodu tap iho wetuzi kana dod afoce wa hihalaj reb ov. Magke lo rugi ejalul ciwar jisetmoh sumaglar ri wijbicat ecukediz muwwak gefipheh podna wiewajep ca cur tuv. Je sapogop ajifim ruf misi kotvovtar cije sed nukamva cibre zojedo meuzdow ritub le ufu zutozuh."
+  },
+  "apiKey": "c3fb4da392b641da3f9dacd04ecc9dd078e30f2db0444c82518948d83d7267e4",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
