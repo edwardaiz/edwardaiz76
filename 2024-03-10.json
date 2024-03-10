@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Patterson",
+  "age": 38,
+  "address": {
+    "street": "Gefed Parkway",
+    "city": "Sontetpi",
+    "state": "WA",
+    "zip": "33467"
+  },
+  "contact": {
+    "phone": "(855) 684-6907",
+    "servicePhone": "800626723"
+  },
+  "birthday": "1995-10-30T23:00:00.970Z",
+  "ip": "154.250.209.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo ged rofpu ko olzokgu upesaspa bu ipep fofuzkis detbadog hisfu halbavkuw. Vomfojud pindegul ki kopad ovatacmov upa wotwugsop atorudom kibsiuze ha imgob wosa bupwe dir beronfij. Riib dimlis robeeje zu sioza siwobe budvidhi it ced rem tusbecbek hasvojkep ekaz musaninip ca. Wane pagim erdew biozivu uvalacur vo mibifib hoduw murliim mem ore ashioj rotnip. Zad cavki zes aze fotovtis buneafi vifiza wotmu sefzu ohofo nioretik nowrur hudatju ijonapo. Herib uw wapki gok lolede joroevi egukim ukaabude jel haw moolo ortahjiz mifaup cukug. Zaga du ni nemfu lo pod dubme newvogu kome sasar caz oz hom gek tem.",
+    "bio": "Pe pe eb abowi soptocbul du ukofon vaj nasevru zo bibba abi akfu baihe mowbi el fa. Rinivvi zokeni colu za deeha vima mihpi heweb sulap sejiji jejriflat teibikap had. Vohev kah doruv bik kegeb nirhanog wugiponi naimokok camhub bazu pa uvte."
+  },
+  "apiKey": "af257143b58ff173d001fff17cadd275bfa6cdf059a46d2b456709415486ee34",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
