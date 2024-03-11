@@ -1,0 +1,26 @@
+{
+  "name": "Max Morgan",
+  "age": 38,
+  "address": {
+    "street": "Litpu Avenue",
+    "city": "Tokluke",
+    "state": "OR",
+    "zip": "66453"
+  },
+  "contact": {
+    "phone": "(250) 625-1053",
+    "servicePhone": "800617582"
+  },
+  "birthday": "1977-07-07T08:43:10.032Z",
+  "ip": "171.80.219.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Zasfuh ma hatzo da hunfipzuk ridge abpaf piplun vithe diso vugike kah hib huebcag romji. Nik fasmaj webefad fe ed ug ha bor tatgu bew woamiud urcujib bejfal atjormas pasihnu gupre etle eju. Ku ci fa jek jiedaiju keahu haomefu jadnibba pokki fonuk vu vo. Hugfuvi fi ubu mufuse usju dijvirah toc soeg duh odo li goccozvuh. Tonojud vug ihakev zanu fi vonucin wiwa itjofuv puppama kakhasej idzoowu capuble ro teg foko.",
+    "bio": "Di esupu vi ci fap di ro sawmipvi ugurgev ja zomtabul bofal bes. Sowmab nes paf nutek eciufafo fir molcafle jul pot gofi kel puagad. Jeafehan elluger gaf fedomsu rocuwu nap hujukise oz fidenlen pebagmam zat epuc bucgopu."
+  },
+  "apiKey": "18dc5d63c84246f2d3439ba81a904a15dc530bfed2063abe88a1429b06c1f993",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
