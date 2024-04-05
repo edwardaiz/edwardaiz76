@@ -1,0 +1,26 @@
+{
+  "name": "Mattie Webb",
+  "age": 22,
+  "address": {
+    "street": "Boge Point",
+    "city": "Atuvozos",
+    "state": "NE",
+    "zip": "41931"
+  },
+  "contact": {
+    "phone": "(400) 370-4669",
+    "servicePhone": "800122193"
+  },
+  "birthday": "1970-09-10T21:53:27.614Z",
+  "ip": "136.25.244.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Na nohjuzzu pahot mec lav vehook ba rim ukevitzef ejuadgu su fontevkat sumetene ulaso. Hu obnojson kunre de ubasizoj vekibez nize pelja icfaz herato ere utzoaki ku nag gutfanuf. Lilzopnov jeototi gan he lurce opovopi ahe nevegap vij kiltosub bertog titweku maflo bakkuc.",
+    "bio": "Fooclo zehe ti hovozivav zebiskop losreb peg ubamawnov roz dewna ni juimfu lotne ivo wilburuj kemuwlu cozfaspuc mowka. Ta saopeg raroj eleguhu gif jan te misfu imsuevu riji jefes ura ziza cipowo emipilu iw. Besofol lu hu dukalal wajom bujsofof gis tov kimomof evho gamip udieko roptuw igo mus asevu pis."
+  },
+  "apiKey": "aef786179c1bf836fad57fe6bade4728b9b927cc968444f86e02e3f7ba00731a",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
